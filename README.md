@@ -5,7 +5,7 @@ This repository contains the **Nike Sales Dashboard** visualization and its asso
 # Files
 
 - <img width="682" height="384" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/03526a6d-10dd-4c07-b7b7-d07f42cc1e91" />
- – Screenshot of the sales dashboard
+ – Sales Dashboard
 - [Nike Sales Dashboard.xlsx](https://github.com/user-attachments/files/25008252/Nike.Sales.Dashboard.xlsx)
  – Source data used to build the dashboard
 
